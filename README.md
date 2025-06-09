@@ -1,0 +1,1 @@
+# Indic-Meme-Multimodal-Analysis-and-Sentiment-Detection-of-Hate-speech
