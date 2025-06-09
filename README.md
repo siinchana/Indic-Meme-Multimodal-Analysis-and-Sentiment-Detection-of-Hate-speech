@@ -133,9 +133,8 @@ This project is for educational and research purposes only. No real-world deploy
 
 ## 🤝 Acknowledgements
 
-* Hateful Memes Challenge (Kiela et al.)
+* Hateful Memes Challenge 
 * BERT, Vision Transformer, and HuggingFace community
-* DravidianLangTech workshop datasets
 
 ---
 
